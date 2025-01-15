@@ -1,2 +1,0 @@
-# two-tier-flaskapp
-HTML
